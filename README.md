@@ -17,6 +17,7 @@ The default keyboard layout is English (US). You can change it in Cinnamon setti
 To run Windows app, install Wine: https://wiki.winehq.org/Ubuntu
 
 # Limitations & bugs
+- No audio support. See https://github.com/novnc/noVNC/issues/302
 - No hardware acceleration because Codespace does not have a GPU
 - Terminal won't open. Use Xfce Terminal or others instead
 
